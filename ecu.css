@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+}
+
+/* HEAD */
+
+.ECU{
+    width: 120px;
+    height: 120px;
+    padding: -80px 0 0 0;
+}
+
+hr {
+    padding: 0px 0 0 0;
+}
+nav li {
+    display: inline;
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 25px;
+    align-items: center;
+    padding: 0 70px 0 70px;
+}
+
+/* END OF HEAD */
+
+/* WELCOME */
+section img {
+    min-width: 1520px;
+    max-height: 800px; 
+    /* background-image: url("wonderlane-6zlgM-GUd6I-unsplash.jpg"); */
+}
+
+/* END OF WELCOME */
+
+div.news{
+    background-color: #022B3A;
+    padding: 10px 0 0 0;
+    width: 1520px;
+    height: 978px;
+}
+
+.ecu-header {
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    /* text-decoration: underline; */
+}
+
+article {
+    padding: 30px 0 0 100px;
+}
+
+article img {
+    width: 500px;
+    height: 250px;
+}
+
+article p {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    color: white;
+    width: 500px;
+}
